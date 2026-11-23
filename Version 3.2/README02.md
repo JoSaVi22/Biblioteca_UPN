@@ -7,6 +7,7 @@ Empezando con los métodos binarioa para las siguientes clases:
 - GestorEstudiante
 
 Imágenes de evidencia:
+
 - GestorBiblioteca
 <img width="1026" height="662" alt="image" src="https://github.com/user-attachments/assets/3e923a94-1e88-4ca2-a02d-8d2a04da0b0a" />
 <img width="1022" height="687" alt="image" src="https://github.com/user-attachments/assets/20d67719-877e-4416-845a-33b397f74f00" />
@@ -18,3 +19,18 @@ Imágenes de evidencia:
 
 - GestorEstudiante
 <img width="1092" height="692" alt="image" src="https://github.com/user-attachments/assets/9ab19725-d4aa-4f62-b03d-c7e89663d0e4" />
+
+Lo siguiente en agregar en el código fueron los métodos recursivos para las siguientes clases: 
+
+- GestorBiblioteca
+- GestorLibro
+- GestorEstudiante
+
+Imágenes adjuntas como evidencia:
+
+- GestorBiblioteca
+
+- GestorLibro
+
+- GestorEstudiante
+<img width="1022" height="687" alt="image" src="https://github.com/user-attachments/assets/99798eab-4f52-4cf3-bf56-ac12640cfd9e" />
