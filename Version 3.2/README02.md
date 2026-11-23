@@ -2,9 +2,9 @@ A partir de lo ya avanzado se creo otros métodos dentro del propio código para
 
 Empezando con los métodos binarioa para las siguientes clases:
 
--GestorBiblioteca
--GestorLibro
--GestorEstudiante
+- GestorBiblioteca
+- GestorLibro
+- GestorEstudiante
 
 Imágenes de evidencia:
 GestorBiblioteca
