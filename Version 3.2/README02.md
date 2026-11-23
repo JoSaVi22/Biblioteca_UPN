@@ -35,3 +35,20 @@ Imágenes adjuntas como evidencia:
 - GestorEstudiante
 <img width="1022" height="687" alt="image" src="https://github.com/user-attachments/assets/99798eab-4f52-4cf3-bf56-ac12640cfd9e" />
 <img width="1021" height="690" alt="image" src="https://github.com/user-attachments/assets/1f5d33cb-117b-4671-86b6-20b721c2f1c1" />
+Después se hizo un contador que devuelve la cantidad para las siguientes clases:
+
+- GestorBiblioteca
+- GestorLibro
+- GestorEstudiante
+
+Imágenes adjuntas como evidencia:
+
+- GestorBiblioteca
+<img width="1259" height="685" alt="image" src="https://github.com/user-attachments/assets/0360f379-d0bf-4191-9cc9-f276c5b7088a" />
+<img width="1026" height="689" alt="image" src="https://github.com/user-attachments/assets/26609ea6-e407-4470-8bb4-821610c244fb" />
+
+- GestorLibro
+<img width="1025" height="684" alt="image" src="https://github.com/user-attachments/assets/d22ab92c-ebd2-487e-9f39-a60f7bd28c8c" />
+
+- GestorEstudiante
+<img width="1024" height="685" alt="image" src="https://github.com/user-attachments/assets/09d27af3-b5a5-4bff-b945-fa9eabd95058" />
