@@ -34,3 +34,4 @@ Imágenes adjuntas como evidencia:
 
 - GestorEstudiante
 <img width="1022" height="687" alt="image" src="https://github.com/user-attachments/assets/99798eab-4f52-4cf3-bf56-ac12640cfd9e" />
+<img width="1021" height="690" alt="image" src="https://github.com/user-attachments/assets/1f5d33cb-117b-4671-86b6-20b721c2f1c1" />
