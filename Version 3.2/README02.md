@@ -54,7 +54,8 @@ Imágenes adjuntas como evidencia:
 
 - GestorEstudiante
 <img width="1024" height="685" alt="image" src="https://github.com/user-attachments/assets/09d27af3-b5a5-4bff-b945-fa9eabd95058" />
-Luego se agrego el siguiente método que faltaba en el código y que sirve para calcular los días de mora del estudiante al no entregar aún el libro, así que esto se agrego precisamente en la clase de Devoluciones.
+Luego se agrego el siguiente método que faltaba en el código y que sirve para calcular los días de mora del estudiante al no entregar aún el libro, así que esto se agrego precisamente en la siguiente clase:
+- Devoluciones
 
 Imágenes adjuntas como evidencia:
 <img width="906" height="664" alt="image" src="https://github.com/user-attachments/assets/7d63b8b0-94a9-43bc-8c47-d67f49cb6c92" />
