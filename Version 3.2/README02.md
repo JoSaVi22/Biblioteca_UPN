@@ -29,8 +29,10 @@ Lo siguiente en agregar en el código fueron los métodos recursivos para las si
 Imágenes adjuntas como evidencia:
 
 - GestorBiblioteca
+<img width="752" height="490" alt="image" src="https://github.com/user-attachments/assets/fafca39a-5dfb-4909-a29e-c40f4ea55927" />
 
 - GestorLibro
+<img width="537" height="374" alt="image" src="https://github.com/user-attachments/assets/7b780a0d-ecbb-46de-ae16-6bc48075c31c" />
 
 - GestorEstudiante
 <img width="1022" height="687" alt="image" src="https://github.com/user-attachments/assets/99798eab-4f52-4cf3-bf56-ac12640cfd9e" />
@@ -52,3 +54,12 @@ Imágenes adjuntas como evidencia:
 
 - GestorEstudiante
 <img width="1024" height="685" alt="image" src="https://github.com/user-attachments/assets/09d27af3-b5a5-4bff-b945-fa9eabd95058" />
+Luego se agrego el siguiente método que faltaba en el código y que sirve para calcular los días de mora del estudiante al no entregar aún el libro, así que esto se agrego precisamente en la clase de Devoluciones.
+
+Imágenes adjuntas como evidencia:
+<img width="906" height="664" alt="image" src="https://github.com/user-attachments/assets/7d63b8b0-94a9-43bc-8c47-d67f49cb6c92" />
+
+Lo siguiente que agregue en esta versión del código fue la clase de Utilidades. Su objetivo principal es evitar la duplicación de código en los formularios y mantener una estructura limpia y mantenible
+
+Imágenes adjuntas como evidencia:
+<img width="1128" height="689" alt="image" src="https://github.com/user-attachments/assets/e193e212-77e0-4e5f-a8b0-ce54bbeb68b8" />
